@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstudioAspNet", "EstudioAsp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AplicacionSession002", "AplicacionSession002\AplicacionSession002.csproj", "{96FCF4D9-E55A-438D-AA64-799D4A78E3B2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventosPagina003", "EventosPagina003\EventosPagina003.csproj", "{3D4741BF-1FBB-4F2F-9326-C7B9A142AFCF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{96FCF4D9-E55A-438D-AA64-799D4A78E3B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{96FCF4D9-E55A-438D-AA64-799D4A78E3B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{96FCF4D9-E55A-438D-AA64-799D4A78E3B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D4741BF-1FBB-4F2F-9326-C7B9A142AFCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D4741BF-1FBB-4F2F-9326-C7B9A142AFCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D4741BF-1FBB-4F2F-9326-C7B9A142AFCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D4741BF-1FBB-4F2F-9326-C7B9A142AFCF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
