@@ -20,16 +20,37 @@ namespace EventosPagina003
         }
         protected void Page_InitComplete(object sender, EventArgs e)
         {
-            Response.Write("2) InitComplete <br/>");
+            Response.Write("3) InitComplete <br/>");
         }
         protected void Page_PreLoad(object sender, EventArgs e)
         {
-            Response.Write("2) PreLoad <br/>");
+            Response.Write("4) PreLoad <br/>");
         }
 
         protected void Page_Load(object sender, EventArgs e)
         {
-            Response.Write("2) Load <br/>");
+            Response.Write("5) Load <br/>");
+        }
+
+        protected void Page_LoadComplete(object sender, EventArgs e)
+        {
+            Response.Write("6) LoadComplete <br/>");
+        }
+        
+        protected void Page_PreRender(object sender, EventArgs e)
+        {
+            Response.Write("7) PreRender <br/>");
+        }
+
+        protected void Page_PreRenderComplete(object sender, EventArgs e)
+        {
+            Response.Write("8) PreRenderComplete <br/>");
+        }
+
+        protected void Page_Unload(object sender, EventArgs e)
+        {
+            // Comentado por que no tiene sentido el uso de Response en este evento
+            //Response.Write("9) PreRender <br/>");
         }
     }
 }
