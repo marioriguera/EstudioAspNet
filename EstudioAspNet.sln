@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AplicacionSession002", "Apl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventosPagina003", "EventosPagina003\EventosPagina003.csproj", "{3D4741BF-1FBB-4F2F-9326-C7B9A142AFCF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculosGeometricos", "CalculosGeometricos\CalculosGeometricos.csproj", "{F79E36F4-3014-4360-A5E7-EBA719E2F204}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{3D4741BF-1FBB-4F2F-9326-C7B9A142AFCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3D4741BF-1FBB-4F2F-9326-C7B9A142AFCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3D4741BF-1FBB-4F2F-9326-C7B9A142AFCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F79E36F4-3014-4360-A5E7-EBA719E2F204}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F79E36F4-3014-4360-A5E7-EBA719E2F204}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F79E36F4-3014-4360-A5E7-EBA719E2F204}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F79E36F4-3014-4360-A5E7-EBA719E2F204}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
